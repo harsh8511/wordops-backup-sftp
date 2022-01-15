@@ -1,3 +1,5 @@
+no longer using this due perfromance issue use rclone
+
 # wordops-backup-sftp
 
 WordOps easy backup
